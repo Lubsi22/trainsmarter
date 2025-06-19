@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262554806391",
+    "project_id": "trainsmarter",
+    "storage_bucket": "trainsmarter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262554806391:android:461b174f13754f85abfe72",
+        "android_client_info": {
+          "package_name": "com.example.trainsmarter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8wBzx3Phtw1h3NTbtjZFWLRyR69FI-rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
